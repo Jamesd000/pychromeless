@@ -1,6 +1,6 @@
 selenium==2.53.0
 chromedriver-binary==2.37.0
-rtifi==2020.12.5
+rtifi
 chardet==4.0.0
 idna==2.10
 pdfminer.six==20200517
